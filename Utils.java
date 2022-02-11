@@ -1,2 +1,3 @@
-this is updated file
-hi dear ga
+ i am in master branch ...
+ this is updated file
+ hi dear ga
